@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5x6d4zpqKOgx/bcVCZxh5ILqST9opqt+7cD0K0aBO3RMgXvOnoTtHe6eizWxNUzGemquijo61S7dk0F9h2dpIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaiser\\source\\repos\\N-angle\\N-angle\\N-angle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaiser\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kaiser\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

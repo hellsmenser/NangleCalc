@@ -1,0 +1,9 @@
+C:\Users\kaiser\source\repos\N-angle\N-angle\bin\Debug\netstandard2.0\N-angle.deps.json
+C:\Users\kaiser\source\repos\N-angle\N-angle\bin\Debug\netstandard2.0\N-angle.dll
+C:\Users\kaiser\source\repos\N-angle\N-angle\bin\Debug\netstandard2.0\N-angle.pdb
+C:\Users\kaiser\source\repos\N-angle\N-angle\obj\Debug\netstandard2.0\N-angle.csprojAssemblyReference.cache
+C:\Users\kaiser\source\repos\N-angle\N-angle\obj\Debug\netstandard2.0\N-angle.AssemblyInfoInputs.cache
+C:\Users\kaiser\source\repos\N-angle\N-angle\obj\Debug\netstandard2.0\N-angle.AssemblyInfo.cs
+C:\Users\kaiser\source\repos\N-angle\N-angle\obj\Debug\netstandard2.0\N-angle.csproj.CoreCompileInputs.cache
+C:\Users\kaiser\source\repos\N-angle\N-angle\obj\Debug\netstandard2.0\N-angle.dll
+C:\Users\kaiser\source\repos\N-angle\N-angle\obj\Debug\netstandard2.0\N-angle.pdb
